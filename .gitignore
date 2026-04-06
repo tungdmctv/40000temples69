@@ -3,6 +3,7 @@ node_modules/
 .output/
 .swift-cache/
 output/
+dist/
 
 source-images/
 source-docs/
